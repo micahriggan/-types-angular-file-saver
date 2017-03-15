@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/micahriggan/-types-angular-file-saver/issues"
   },
-  "homepage": "https://github.com/micahriggan/-types-angular-file-saver#readme"
+  "homepage": "https://github.com/micahriggan/-types-angular-file-saver#readme",
+  "devDependencies": {
+    "@types/angular": "^1.6.9"
+  }
 }
