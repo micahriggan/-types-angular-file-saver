@@ -1,0 +1,19 @@
+{
+  "name": "@types/angular-file-saver",
+  "version": "1.0.0",
+  "description": "angular-file-saver with newer angular module extending",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micahriggan/-types-angular-file-saver.git"
+  },
+  "author": "Micah Riggan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/micahriggan/-types-angular-file-saver/issues"
+  },
+  "homepage": "https://github.com/micahriggan/-types-angular-file-saver#readme"
+}
